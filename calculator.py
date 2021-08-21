@@ -1,5 +1,4 @@
 from tkinter import *
-from random import shuffle
 import parser
 from math import factorial
 from math import sqrt
